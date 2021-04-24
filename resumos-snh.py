@@ -1,5 +1,5 @@
 """
-Código para raspagem dos resumos submetidos aos Simpósio nacionais de História da Anpuh entre 2013 e 2019.
+Código para raspagem dos resumos submetidos aos Simpósio Nacionais de História da Anpuh entre 2013 e 2019.
 Autoria: Eric Brasil (IHL-UNILAB, LABHDUFBA)
 """
 from urllib.request import Request, urlopen
@@ -12,8 +12,9 @@ dic = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML,
 now = datetime.now()
 date = now.strftime("%Y-%m-%d_%H-%M-%S")
 
-print('\nCódigo para raspagem dos resumos submetidos aos Simpósio nacionais de História da Anpuh entre 2013 e 2019.\n'
-      'Autoria: Eric Brasil\n')
+print('\nRaspador dos resumos dos Simpósios Nacionais de História da Associação Nacional de História - Anpuh.\n'
+      'O programa raspa todos os resumos dos SNH 27, 28, 29 e 30, respectivamente dos anos de 2013, 2015, 2017 e 2019\n'
+      'Autoria: Eric Brasil  (IHL-UNILAB, LABHDUFBA)\n')
 print('-=-'*30)
 
 snhYears= list()
