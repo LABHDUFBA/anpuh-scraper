@@ -87,7 +87,7 @@ O script está funcionando perfeitamente. Qualquer alteração no site percebida
 
 ## Licença
 
-[GNU General Public License Version 3](LICENSE)
+[MIT Licence](LICENSE)
 
 ---
 
