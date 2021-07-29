@@ -3,7 +3,7 @@
 # anpuh-scraper
 Raspador dos Resumos dos Simpósios Anuais da História da Anpuh (2013-2019)
 
-*Raspador dos resumos dos Simpósios Nacionais de História da [Associação Nacional de História - Anpuh](https://anpuh.org.br). O programa raspa todos os resumos dos SNH 27, 28, 29 e 30, respectivamente dos anos de 2013, 2015, 2017 e 2019*
+*Raspador dos resumos dos Simpósios Nacionais de História da [Associação Nacional de História - Anpuh](https://anpuh.org.br). O programa raspa todos os resumos dos SNH 27, 28, 29, 30 e 31, respectivamente dos anos de 2013, 2015, 2017, 2019 e 2021*
 ___
 
 **A ferramenta foi desenvolvida apenas para pesquisas acadêmicas, sem fins lucrativos.**
@@ -11,6 +11,7 @@ ___
 
 Esse script foi pensado como uma ferramenta metodológica da pesquisa em humanidades
 digitais. Sua criação é fruto das reflexões e experiências empíricas de historiadores e sociológos que têm enfrentado o [desafio de fazer ciências humanas no mundo digital](http://bibliotecadigital.fgv.br/ojs/index.php/reh/article/view/79933).
+
 Defendemos a importância da apropriação, uso, desenvolvimento e aprimoramento de ferramentas digitais para as humanidades, assim como a urgência na sofisticação teórica, metodológica e epistemológica sobre as chamadas Humanidades Digitais.
 
 É crescente o número de repositórios de fontes e dados on-line, assim como o acesso, busca, pesquisa e, muitas vezes, dependência de pesquisadores/as a eles.
@@ -71,7 +72,7 @@ Exemplo de como executar utilizando o terminal do Linux, após instalar o Python
 
 ## Resultados
 
-O script retorna para o usuário **um CSV (*comma-separated values*) com os dados de todos os trabalhos aceitos nos Simpósio Temáticos dos SNH 27, 28, 29 e 30**.
+O script retorna para o usuário **um CSV (*comma-separated values*) com os dados de todos os trabalhos aceitos nos Simpósio Temáticos dos SNH 27, 28, 29, 30 e 31**.
 
 O CSV contém as seguintes variáveis para cada resumo:
 
@@ -91,4 +92,4 @@ O script está funcionando perfeitamente. Qualquer alteração no site percebida
 
 ---
 
-Autor: [Eric Brasil](https://github.com/ericbrasiln)(IHL-UNILAB), [LABHD-UFBA](http://labhd.ufba.br/)
+Autor: [Eric Brasil](https://github.com/ericbrasiln)(IHLM-UNILAB), [LABHD-UFBA](http://labhd.ufba.br/)
