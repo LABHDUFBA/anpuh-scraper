@@ -25,6 +25,9 @@ print('-=-'*30)
 snhYears= list()
 while True:
     snhYears.append(int(input('Digite o ano do primeiro evento [entre 2013, 2015, 2017, 2019 e 2021] que deseja raspar: ')))
+    if len(snhYears) == 5:
+        print('-=-'*50)
+        break
     resp = str(input('Deseja inserir outro ano para raspagem? [S/N] '))
     if resp in 'Nn':
         print('-=-'*50)
@@ -43,8 +46,8 @@ def cleanAbstract(abstract):
     Função que limpa o resumo do evento
     '''
     abstract = abstract.replace('\n', ' ')
-    abstract = abstract.replace('Resumo: ','')
-    abstract = abstract.replace('Ocultar','')
+    abstract = abstract.replace('Resumo:','')
+    abstract = abstract.replace('\nOcultar','')
     abstract = abstract.replace('RESUMO','')
     return abstract
 
