@@ -1,9 +1,16 @@
 <p align="center"><img src="labhd.png" height="256" width="256"/></p>
 
 # anpuh-scraper
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5168720.svg)](https://doi.org/10.5281/zenodo.5168720)
+
+
 Raspador dos Resumos dos Simpósios Anuais da História da Anpuh (2013-2021)
 
 *Raspador dos resumos dos Simpósios Nacionais de História da [Associação Nacional de História - Anpuh](https://anpuh.org.br). O programa raspa todos os resumos dos SNH 27, 28, 29, 30 e 31, respectivamente dos anos de 2013, 2015, 2017, 2019 e 2021*
+
+Desenvolvido no âmbito do [Laboratório de Humanidades Digitais da UFBA](http://www.labhd.ufba.br/) e parte do [Repositório Digital das Humanidades (PT-BR) - REDHBR](https://labhdufba.github.io/redhbr/).
+
 ___
 
 **A ferramenta foi desenvolvida apenas para pesquisas acadêmicas, sem fins lucrativos.**
