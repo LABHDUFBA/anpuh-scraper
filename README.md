@@ -1,7 +1,7 @@
 <p align="center"><img src="labhd.png" height="256" width="256"/></p>
 
 # anpuh-scraper
-Raspador dos Resumos dos Simpósios Anuais da História da Anpuh (2013-2019)
+Raspador dos Resumos dos Simpósios Anuais da História da Anpuh (2013-2021)
 
 *Raspador dos resumos dos Simpósios Nacionais de História da [Associação Nacional de História - Anpuh](https://anpuh.org.br). O programa raspa todos os resumos dos SNH 27, 28, 29, 30 e 31, respectivamente dos anos de 2013, 2015, 2017, 2019 e 2021*
 ___
